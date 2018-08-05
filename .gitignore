@@ -1,6 +1,3 @@
-*.[pages]
 
-*.[docx]
-
-*[tmp]
-*[node_modeules]
+node_modules/
+tmp/
